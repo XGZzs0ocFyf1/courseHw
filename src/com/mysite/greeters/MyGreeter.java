@@ -9,7 +9,7 @@ public class MyGreeter{
 	}
 	
 	public void printGreeting(){
-		String greeting = name.length() > 3 ? "Hello  "+name +"!": "Hello!";
+		String greeting = name.length() > 1 ? "Hello  "+name +"!": "Hello!";
 		System.out.println(greeting);
 	}
 }
