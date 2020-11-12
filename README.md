@@ -8,7 +8,7 @@
 ```cd courceHw```
 
 скомпилировать исходные файлы в папку compiled
-javac -d compiled -sourcepath src src/com/mysite/Hw.java
+```javac -d compiled -sourcepath src src/com/mysite/Hw.java```
 
 собрать из скомпилированных файлов jar файл
 
