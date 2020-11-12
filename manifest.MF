@@ -1,0 +1,16 @@
+Main-Class: com.mysite.Hw
+Manifest-Version: 1.0
+Built-By: Gurzhy
+Build-Jdk: 11.0.9
+
+
+
+
+
+
+
+
+
+
+
+ 
